@@ -1,5 +1,5 @@
 # python---automacao
-Esse projeto foi feito com o objetivo de aprender e praticar automação usando Python, simulando um controle de estoque simples, parecido com o que poderia existir em uma empresa.
+Esse projeto foi feito com o objetivo de aprender e praticar automação usando Python, simulando um controle de estoque simples.
 
 A ideia principal é:
 
